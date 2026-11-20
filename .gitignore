@@ -1,0 +1,42 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+.venv-*/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Folders to ignore (as requested)
+final_dataset/
+analysis/
+archive/
+new_data/
+datasets/
+dataset/
+data/
+SID_Set/
+IMD2020/
+SynthBuster/
+
+# Model weights & checkpoints
+*.pt
+*.pth
+*.h5
+*.keras
+*.ckpt
+*.onnx
+
+# Temporary test logs & artifacts
+test_crops/
+*.log
+
+# Environment variables
+.env
+.env.*
+!.env.example
