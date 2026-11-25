@@ -1,0 +1,100 @@
+filename,class_name,source_image,extraction_type,layout_source,row,col,width,height,sha256
+fakeimage1.png,crowds_meetings_and_public_gatherings,splitimage.im-1 (2).png,image,none,1,1,177,177,cdb4a5d280ed7968ab67dbaae6c2d8e938e881c2a24c18d2b7d7d872d0e0dd5a
+fakeimage2.png,crowds_meetings_and_public_gatherings,splitimage.im-1.png,image,none,1,1,146,146,2c48caccbc07a0a275588eb9b121431b22300b11582e9378cacf6aabf1b89886
+fakeimage3.png,crowds_meetings_and_public_gatherings,splitimage.im-2 (2).png,image,none,1,1,177,177,8ffe015b85adcda6e538aa7cf85300e2895af24c9e7970f917186818417802e8
+fakeimage4.png,crowds_meetings_and_public_gatherings,splitimage.im-2.png,image,none,1,1,146,146,86ca3bd4edb4d29829e0436012be4c9c86bb32d574cf0606d9764b0ea1618ae8
+fakeimage5.png,crowds_meetings_and_public_gatherings,splitimage.im-3 (2).png,image,none,1,1,177,177,53d2953cf75c4b43bbb5fccd835c8ba202db64a60d54a250d4406a2cf03f36f7
+fakeimage6.png,crowds_meetings_and_public_gatherings,splitimage.im-3.png,image,none,1,1,146,146,e6ca3905d1df3da716de1a6b70aee77aa1b7a8ff458551e0a6526db6f1fc6f77
+fakeimage7.png,crowds_meetings_and_public_gatherings,splitimage.im-4 (2).png,image,none,1,1,177,177,ad14691c27be1f29bef6d753cb7ea1b206960b834fb379c0472abe35063641be
+fakeimage8.png,crowds_meetings_and_public_gatherings,splitimage.im-4.png,image,none,1,1,146,146,85e143d558a95fe69f427118e44ca5603d76940036fbe8591339f7bafe32ced7
+fakeimage9.png,crowds_meetings_and_public_gatherings,splitimage.im-5 (2).png,image,none,1,1,177,177,c30ea129a151f5c6658c856123e4a79833c4b8a455c6e0b238f03718705527e5
+fakeimage10.png,crowds_meetings_and_public_gatherings,splitimage.im-5.png,image,none,1,1,146,146,f78f59eba3366194eb66745296c33ce68a04a1e8d1ce3a08ec6cea054fc7865f
+fakeimage11.png,crowds_meetings_and_public_gatherings,splitimage.im-6 (2).png,image,none,1,1,177,177,97d86554fd16fbddab83a8922bbcb76c348fe8afcc8900fcad8998e3c3054149
+fakeimage12.png,crowds_meetings_and_public_gatherings,splitimage.im-6.png,image,none,1,1,146,146,01827f87df8f172d30084538b3aa077fbdea99bff6f4c6833764eb7cbc72a06e
+fakeimage13.png,crowds_meetings_and_public_gatherings,splitimage.im-7 (2).png,image,none,1,1,177,177,5965b50da6d5252e9927d3c992746dca91750bd16c6c99ecb5c6d99a7178cd45
+fakeimage14.png,crowds_meetings_and_public_gatherings,splitimage.im-7.png,image,none,1,1,146,146,70d80f07f8e7431f83e4921c180ef6425128ea84e7017d87d4a7127a3eb3e7c3
+fakeimage15.png,crowds_meetings_and_public_gatherings,splitimage.im-8 (2).png,image,none,1,1,177,177,36c1f54374b9c7ee9ccd7cb46c679fb60ab2651de6e938d47f08259fec3226f3
+fakeimage16.png,crowds_meetings_and_public_gatherings,splitimage.im-8.png,image,none,1,1,146,146,9f3b9f7855b7bfd6f0461090287a148db79a5c5b2e0e4500a924eafdc15d2095
+fakeimage17.png,crowds_meetings_and_public_gatherings,splitimage.im-9 (2).png,image,none,1,1,177,177,3d26694017c81bfe8e4ab27fc67327e4c27295836b701a8c8cc840b8e48538f7
+fakeimage18.png,crowds_meetings_and_public_gatherings,splitimage.im-9.png,image,none,1,1,146,146,70bbb06f1f829301cca321c32b5405e68587fff8395a9fc67b9cefa24ecbb3b1
+fakeimage19.png,crowds_meetings_and_public_gatherings,splitimage.im-10 (2).png,image,none,1,1,177,177,765734fade61158d7b6a2f13abff5820aa590309ed10aac6b42d76f88218ff05
+fakeimage20.png,crowds_meetings_and_public_gatherings,splitimage.im-10.png,image,none,1,1,146,146,7f5e39d2e170a068d1862f077b80c36bf4b5f53bbf62ad6bf11267d52f011710
+fakeimage21.png,crowds_meetings_and_public_gatherings,splitimage.im-11 (2).png,image,none,1,1,177,177,be65a4527e0b1670d7f4b44c6f442206a8db35bcde77a777cb357703cc5d0c8f
+fakeimage22.png,crowds_meetings_and_public_gatherings,splitimage.im-11.png,image,none,1,1,146,146,7ed6dbbbc876f24cb679cd46e5e3d2434d4cb42a30098073d43bb94b92da6ceb
+fakeimage23.png,crowds_meetings_and_public_gatherings,splitimage.im-12 (2).png,image,none,1,1,177,177,d7c84d548cccf86f79d86db926fc59774972d6e98ad6e5bd3b15ebef850b59de
+fakeimage24.png,crowds_meetings_and_public_gatherings,splitimage.im-12.png,image,none,1,1,146,146,867b26dcf72f6caad5fc2a162c665c11e934c2c1e73cbce5f7673dd93d3929d3
+fakeimage25.png,crowds_meetings_and_public_gatherings,splitimage.im-13 (2).png,image,none,1,1,177,177,6b87c87ec4de933470d58f2f6c39bfa139b76101c9c28ca771d5f270f7b15237
+fakeimage26.png,crowds_meetings_and_public_gatherings,splitimage.im-13.png,image,none,1,1,146,146,3fe79d41d930eeb5bb3936c467fffaa7ee6767bb2dff275a3d584466f9e243e0
+fakeimage27.png,crowds_meetings_and_public_gatherings,splitimage.im-14 (2).png,image,none,1,1,177,177,3cc242b427b70590976c255fbabcfc7e3289baac591e1a1b4f1201949e1e06b2
+fakeimage28.png,crowds_meetings_and_public_gatherings,splitimage.im-14.png,image,none,1,1,146,146,a9ce3315c341865ea0e763c2f0c0b48b58d30acf788f8d36e3c90f3987f03b33
+fakeimage29.png,crowds_meetings_and_public_gatherings,splitimage.im-15 (2).png,image,none,1,1,177,177,e622eec21fa84bca83f7ce14c801fda6fda9608b2f93ecd4b14b714acc87324e
+fakeimage30.png,crowds_meetings_and_public_gatherings,splitimage.im-15.png,image,none,1,1,146,146,34d48d6fb5d8c7a7044d298547d315b959e27cf82fb44b022f0867e215de9191
+fakeimage31.png,crowds_meetings_and_public_gatherings,splitimage.im-16 (2).png,image,none,1,1,177,177,76f257fbe0c645a88fb10a79876e6781857a218d0d8f38eddc29b2763b4feaf2
+fakeimage32.png,crowds_meetings_and_public_gatherings,splitimage.im-16.png,image,none,1,1,146,146,f57f5bd35fe15bfc90c8ce589a22109c71704217307a346b248bb80e0c0d5c79
+fakeimage33.png,crowds_meetings_and_public_gatherings,splitimage.im-17 (2).png,image,none,1,1,177,177,20c25e7cedbf373fa6ae5db005ba93973a5884dc556e56ea1a7d58c22114ced9
+fakeimage34.png,crowds_meetings_and_public_gatherings,splitimage.im-17.png,image,none,1,1,146,146,fb9702f9949b9082a539821ed2e370a0c70871cf0eac44982fc5a10a080ab89b
+fakeimage35.png,crowds_meetings_and_public_gatherings,splitimage.im-18 (2).png,image,none,1,1,177,177,5412c17ecb7c29b836a6d8871696419b96817c5e744ced4b599ca81ec0c240f7
+fakeimage36.png,crowds_meetings_and_public_gatherings,splitimage.im-18.png,image,none,1,1,146,146,7263b8c09fa4efd8e928251819e542e0c743b26fb2eb2d8b74c0336a704cae6f
+fakeimage37.png,crowds_meetings_and_public_gatherings,splitimage.im-19 (2).png,image,none,1,1,177,177,29cc6359a11aa81e6fc1cca5425d9b7b4fc5976cb6d2f0bb56882e094bbbcee4
+fakeimage38.png,crowds_meetings_and_public_gatherings,splitimage.im-19.png,image,none,1,1,146,146,b8297d9d2999d7888e97b13f07091c11f0292ac852006267ddb2e0ac16b2d466
+fakeimage39.png,crowds_meetings_and_public_gatherings,splitimage.im-20 (2).png,image,none,1,1,177,177,99c872dd7702410fd1e2119a1084c94f93a942766450422bdd9193c9b589afd3
+fakeimage40.png,crowds_meetings_and_public_gatherings,splitimage.im-20.png,image,none,1,1,146,146,90dd2cf0e86334c78b4b8c3b8fcc7a68710d9c0b58b3cf6eb0253d0c2d6b0b07
+fakeimage41.png,crowds_meetings_and_public_gatherings,splitimage.im-21 (2).png,image,none,1,1,177,177,9ecc6e683b9a13a828cee219d8fd7e80d8273cbe467c0017099dd790c5d561a7
+fakeimage42.png,crowds_meetings_and_public_gatherings,splitimage.im-21.png,image,none,1,1,146,146,9c0f442b75353155513030c1cc5b7bcb1b4ff336249bf8d4f315ec9a257dd038
+fakeimage43.png,crowds_meetings_and_public_gatherings,splitimage.im-22 (2).png,image,none,1,1,177,177,233e4d57c8905f38550314eaad4ebc876460c1306868172ad7a660e98049c242
+fakeimage44.png,crowds_meetings_and_public_gatherings,splitimage.im-22.png,image,none,1,1,146,146,dd276f5c8f982d19331e2f0ef660cadd36d335961fceed3a9cb59dd95e48262b
+fakeimage45.png,crowds_meetings_and_public_gatherings,splitimage.im-23 (2).png,image,none,1,1,177,177,3790bfc3297b849cb322f0b48eaeedb8c4471e48c30e2e848b21ffa0442ec6d1
+fakeimage46.png,crowds_meetings_and_public_gatherings,splitimage.im-23.png,image,none,1,1,146,146,f6f34373018ef68e20ae9a2c46efa66b9ed9757ef90ab54f5331b6ae7f7f03d3
+fakeimage47.png,crowds_meetings_and_public_gatherings,splitimage.im-24 (2).png,image,none,1,1,177,177,9feb5a34520f843038ddb35a49c64916f32b700e5911b0a218501b0805260780
+fakeimage48.png,crowds_meetings_and_public_gatherings,splitimage.im-24.png,image,none,1,1,146,146,4625936f3fdcf6f32a72f2a14a2bb5f3fc6360accb949ef0b54648000aa50506
+fakeimage49.png,crowds_meetings_and_public_gatherings,splitimage.im-25 (2).png,image,none,1,1,177,177,ba7900caa2e6a8c336af5b9b60417bb09573b3c5444a580e800a3266c3d0b18a
+fakeimage50.png,crowds_meetings_and_public_gatherings,splitimage.im-25.png,image,none,1,1,146,146,a7866f85dcd2a492f85d82e8f01673787dc0d924b207df87ded7779e6e861f38
+fakeimage51.png,crowds_meetings_and_public_gatherings,splitimage.im-26 (2).png,image,none,1,1,177,177,39da27ac485b1e76b1f224950334dd2e2aae7161de93215e858be3f92c2b6641
+fakeimage52.png,crowds_meetings_and_public_gatherings,splitimage.im-26.png,image,none,1,1,146,146,3b73ceccf9c54e15e25a5c4e3a9de948220800de321f6ce0b9bc408ca569664c
+fakeimage53.png,crowds_meetings_and_public_gatherings,splitimage.im-27 (2).png,image,none,1,1,177,177,285de60eebf0a41174f40812b996f73b92dff2204fde7436c07d4d6c63cce222
+fakeimage54.png,crowds_meetings_and_public_gatherings,splitimage.im-27.png,image,none,1,1,146,146,b3be8ba3250d80cb5d5271cc09ef8b5cda39f6c58b472531fcfc5cb928a1a126
+fakeimage55.png,crowds_meetings_and_public_gatherings,splitimage.im-28 (2).png,image,none,1,1,177,177,7d2b9b540627c4e949cfc863fa0da2c730568adcac368544ef7bea23fc8ccd06
+fakeimage56.png,crowds_meetings_and_public_gatherings,splitimage.im-28.png,image,none,1,1,146,146,e7fb56a0c929654bfad45253b4cdd387203dabac2fa563bdf2d60175039bc586
+fakeimage57.png,crowds_meetings_and_public_gatherings,splitimage.im-29 (2).png,image,none,1,1,177,177,6be7df3394ad3dff3432eb471d920131d852be86be4af9634f344f6aecb748cf
+fakeimage58.png,crowds_meetings_and_public_gatherings,splitimage.im-29.png,image,none,1,1,146,146,7cd770657072833bbe7b3c27cd4cfd86d266c7d1fd52278802beaf7e6aa291a4
+fakeimage59.png,crowds_meetings_and_public_gatherings,splitimage.im-30 (2).png,image,none,1,1,177,177,1ea7ceff91d93e8f099012cb8cd39512c3a91cdcb91262dee19b38bcdff72126
+fakeimage60.png,crowds_meetings_and_public_gatherings,splitimage.im-30.png,image,none,1,1,146,146,bcce3b51a5823b718cc1b272786736d4cd8689a6dd01d87b86906afdc5da7431
+fakeimage61.png,crowds_meetings_and_public_gatherings,splitimage.im-31 (2).png,image,none,1,1,177,177,96f538b5192dcb7b1480f61b7c7dd5029fc386873cfd396e02699f84e1d0f342
+fakeimage62.png,crowds_meetings_and_public_gatherings,splitimage.im-31.png,image,none,1,1,146,146,e43b6c944b55c6fe80ec5e0dec09a92cf05fbccab3d3dccbb5bf206307e3097b
+fakeimage63.png,crowds_meetings_and_public_gatherings,splitimage.im-32 (2).png,image,none,1,1,177,177,e3acacf579d8271d9c2a2d3aa79824b5738c1711b543e2af85a4952adce34b4a
+fakeimage64.png,crowds_meetings_and_public_gatherings,splitimage.im-32.png,image,none,1,1,146,146,ecd7b785f510ae01f59b2fd49d2029476ff5b5f9358471257884a40c3e5b5922
+fakeimage65.png,crowds_meetings_and_public_gatherings,splitimage.im-33 (2).png,image,none,1,1,177,177,39cb6dc80303d934720b237a8763a9b57db445c5ee1e328b2d596a5b50c26e7b
+fakeimage66.png,crowds_meetings_and_public_gatherings,splitimage.im-33.png,image,none,1,1,146,146,1b2b7571e3644d765ba80bc529ba661ebca309cd4701b3e45fd31ddde8586672
+fakeimage67.png,crowds_meetings_and_public_gatherings,splitimage.im-34 (2).png,image,none,1,1,177,177,57e3ddce1625fa9b0b04111e6216469e7b71b4cda87cceca526ade9eed873939
+fakeimage68.png,crowds_meetings_and_public_gatherings,splitimage.im-34.png,image,none,1,1,146,146,d386d6573c76648f9f6658a2a0b39da3c7d93eb5761e1e0d3b36dae042be4bff
+fakeimage69.png,crowds_meetings_and_public_gatherings,splitimage.im-35 (2).png,image,none,1,1,177,177,4cf10c64da823606fb94ebfd29583c30a41295f63a35ba78bc20ca6609e9f786
+fakeimage70.png,crowds_meetings_and_public_gatherings,splitimage.im-35.png,image,none,1,1,146,146,66e4a88919e1b3ebf2c452da95f6a621b40531a23d8c8e6dd7a022061768e39b
+fakeimage71.png,crowds_meetings_and_public_gatherings,splitimage.im-36 (2).png,image,none,1,1,177,177,1afcf19302439d8c5433bdd6ecf3a0e4ff00eec0ebbbbf1283b7ac18072256a2
+fakeimage72.png,crowds_meetings_and_public_gatherings,splitimage.im-36.png,image,none,1,1,146,146,b321a39e47804a9beb8c1df27aa003c448eed8e5995819416b21024c588f6729
+fakeimage73.png,crowds_meetings_and_public_gatherings,splitimage.im-37 (2).png,image,none,1,1,177,177,78ce3e93a88fc1b208a948044681fca4dda767eba8c62fe4fa11a8dc536f7780
+fakeimage74.png,crowds_meetings_and_public_gatherings,splitimage.im-37.png,image,none,1,1,146,146,063d75818a1133ab943e1a7364a8a8341846e62916525012fc8488b697ba73f1
+fakeimage75.png,crowds_meetings_and_public_gatherings,splitimage.im-38 (2).png,image,none,1,1,177,177,75e7e6e3d76e6daf7aa35507839a050e00c3ebc1b9dddea5854412e1212be073
+fakeimage76.png,crowds_meetings_and_public_gatherings,splitimage.im-38.png,image,none,1,1,146,146,d8960480a6ceeba33e9926bcd3d6f900e79808a22e6a0b29399e7840ba2de238
+fakeimage77.png,crowds_meetings_and_public_gatherings,splitimage.im-39 (2).png,image,none,1,1,177,177,00093c506a317539beaf336cf19f4e845ee268ffc3d03b4ab6d984f6ad1a3277
+fakeimage78.png,crowds_meetings_and_public_gatherings,splitimage.im-39.png,image,none,1,1,146,146,4ae8b900f60fb8e513cbe7060e084de8772d7181f2840a3719e0e6d72cf2c20f
+fakeimage79.png,crowds_meetings_and_public_gatherings,splitimage.im-40 (2).png,image,none,1,1,177,177,5569c24f087a4ce7c4a5aeb715d49e60236055475cc5766fadc8e8a1a08245db
+fakeimage80.png,crowds_meetings_and_public_gatherings,splitimage.im-40.png,image,none,1,1,146,146,cc885e23af381b449b77c16039dddf791941c9bdc2592e6bb2aac4dc11f98c09
+fakeimage81.png,crowds_meetings_and_public_gatherings,splitimage.im-41 (2).png,image,none,1,1,177,177,bfa397e8bc3617ffb453174b42e0e6c7cc819fb04b6f131ce265b3a4aadf8c66
+fakeimage82.png,crowds_meetings_and_public_gatherings,splitimage.im-41.png,image,none,1,1,146,146,3a4b8250cf187e23d7cd2f38dde76e785cfde2e74803b7d33bb4159864a89382
+fakeimage83.png,crowds_meetings_and_public_gatherings,splitimage.im-42 (2).png,image,none,1,1,177,177,d42bbf9c85595fa94c1204c598efc6bfde4ce34f7f9f1adf52281d48cabe01b7
+fakeimage84.png,crowds_meetings_and_public_gatherings,splitimage.im-42.png,image,none,1,1,146,146,637ecd0272d847af81c02b6dc57615b5673209eb74f6abed14253399a1bf27cc
+fakeimage85.png,crowds_meetings_and_public_gatherings,splitimage.im-43 (2).png,image,none,1,1,177,177,8b312eb608e09004fb72d02e749bc9397f26f27a2b1824146a3502f2c83e646d
+fakeimage86.png,crowds_meetings_and_public_gatherings,splitimage.im-43.png,image,none,1,1,146,146,4d6a3f29ac27e07cbdd4aa2084df5b8d237d68c3c8d5653ac5a34601d44e5113
+fakeimage87.png,crowds_meetings_and_public_gatherings,splitimage.im-44 (2).png,image,none,1,1,177,177,647b1fb26af58b18e9eca8cb9d5a63febd88563c658925e2b4ff8b1f7ff41f3a
+fakeimage88.png,crowds_meetings_and_public_gatherings,splitimage.im-44.png,image,none,1,1,146,146,94e478cbf4a6cb1ec27a07d8bbb17a8a5f7877896a7fc33d98573ccfcf97e2df
+fakeimage89.png,crowds_meetings_and_public_gatherings,splitimage.im-45 (2).png,image,none,1,1,177,177,113b2cc9ea418412dc46ccad7505903c45506b045435cb58e2002e69cb8718fd
+fakeimage90.png,crowds_meetings_and_public_gatherings,splitimage.im-45.png,image,none,1,1,146,146,d846bd8446f48a2f28f08b8bf8e8da0967a1e6db139f91ee5529fbe8d6c1c59c
+fakeimage91.png,crowds_meetings_and_public_gatherings,splitimage.im-46 (2).png,image,none,1,1,177,177,947a0f87482fe16cea8ce5072fac6adaffa00f585bb63bf2ec5d07abe8525c5e
+fakeimage92.png,crowds_meetings_and_public_gatherings,splitimage.im-46.png,image,none,1,1,146,146,f68706718cbe7e573c6876cfb33a3713724968e3f64ffc637115c9452545fba4
+fakeimage93.png,crowds_meetings_and_public_gatherings,splitimage.im-47 (2).png,image,none,1,1,177,177,a78e6092e8074149cd54eff8f2ea5430c6d46bf0b6349604dd8b0206c59b97bb
+fakeimage94.png,crowds_meetings_and_public_gatherings,splitimage.im-47.png,image,none,1,1,146,146,9ddf7f05d899facd2353d6ed77618a0f04d77f1c85487b0541879ac21d002c77
+fakeimage95.png,crowds_meetings_and_public_gatherings,splitimage.im-48 (2).png,image,none,1,1,177,177,c1d614c4a705dac971ec6537b8b10469feab8f97128165ffd2a575ff0e6b8394
+fakeimage96.png,crowds_meetings_and_public_gatherings,splitimage.im-48.png,image,none,1,1,146,146,f4b2f6551d9adc8e054587f2ab72b3e520a183bb11405b99dcad9f1368af77bf
+fakeimage97.png,crowds_meetings_and_public_gatherings,splitimage.im-49 (2).png,image,none,1,1,177,177,961175d473f08ce5555e0a6260f93a30c91cc665b5bb9c8016308e49af176f3e
+fakeimage98.png,crowds_meetings_and_public_gatherings,splitimage.im-49.png,image,none,1,1,146,146,a00437c25250ab1eb711707ab07128a21985f05e15e5d9cd7a99d0c23542a4b7
+fakeimage99.png,crowds_meetings_and_public_gatherings,splitimage.im-50.png,image,none,1,1,177,177,6468348f77611cd8bce6194951affc8e0c590140a677a11e9a25d307bc20d0f8
